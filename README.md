@@ -14,8 +14,7 @@ Hamza Shueib
 https://trello.com/b/YTx8XPow/superclassed
 
 # ER Diagram #
-![er diagram](artifacts/er diagram.jpg)
-
+![image](https://user-images.githubusercontent.com/107317017/226130727-d2737d59-4a0c-4465-8104-fa5822f1c7c6.png)
 # System Drawing #
 ![er diagram](artifacts/system drawing.jpg)
 
